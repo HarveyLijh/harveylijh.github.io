@@ -1,33 +1,7 @@
-.inline_block {
-        width: 100px;
-        display: inline-block;
-        margin-left: 10px!important;
-}
 
-select {
-        min-width: 85px;
-        min-height: 26px;
-        max-width: 85px;
-        max-height: 26px;
-}
-
-button {
-        min-width: 78px;
-        min-height: 26px;
-        background-color: white;
-        border-radius: 4px;
-}
-
-.container {
-        margin-top: 2%;
-}
-
-#myChart {
-        margin-top: 8%;   
-}
-
-#line_2_attr{
-        margin-left: 113px;
-        margin-top: 13px;
-        display: none;
+#particles-js {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        background: var(--purple)!important;
 }
