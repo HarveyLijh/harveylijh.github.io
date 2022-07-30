@@ -521,6 +521,14 @@ mark,
   height: auto;
 }
 
+.img-icon{
+  width: auto;
+  max-width: 10rem;
+  /* height: auto; */
+  max-height: 10rem;
+  padding-bottom: 1rem;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
