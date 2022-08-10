@@ -529,7 +529,7 @@ mark,
 }
 
 .img-icon-horizontal {
-  height: 80%;
+  max-height: 80%;
   max-width: 100%;
   padding-bottom: 1rem;
 }
@@ -11787,8 +11787,9 @@ h5,
   margin-bottom: 40px;
   padding: 1em;
   background: rgba(255, 255, 255, 0.1);
+  height: 100%;
   width: 100%;
-  max-height: 20em;
+  max-height: 25rem;
 }
 .services-2-draft:hover {
   /* background: var(--orange); */
