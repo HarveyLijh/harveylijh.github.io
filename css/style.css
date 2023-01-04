@@ -527,7 +527,12 @@ mark,
   max-width: 100%;
   padding-bottom: 1rem;
 }
-
+.img-portfolio {
+  aspect-ratio: 3/2;
+  object-fit: contain;
+  width: 90%;
+  padding-bottom: 1rem;
+}
 .img-icon-horizontal {
   max-height: 80%;
   max-width: 100%;
